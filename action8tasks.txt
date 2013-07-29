@@ -1,3 +1,5 @@
+Create case studies
+Create checklist
 Update guidance
 Append case studies
 Get feedback on case studies
@@ -5,3 +7,5 @@ Get feedback on checklist
 Test checklists
 Review results
 Ask: what needs to change?
+Update checklist
+
