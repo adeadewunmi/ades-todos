@@ -8,4 +8,6 @@ Test checklists
 Review results
 Ask: what needs to change?
 Update checklist
+Amend according to feedback
+
 
