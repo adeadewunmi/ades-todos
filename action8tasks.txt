@@ -1,5 +1,3 @@
-Create case studies
-create checklist
 Update guidance
 Append case studies
 Get feedback on case studies
